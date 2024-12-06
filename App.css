@@ -1,0 +1,29 @@
+.my-nav-bar {
+  height: 50px;
+  width: 100vw;
+  background-color: red;
+  justify-content: center;
+  position: fixed;
+  
+  
+ }
+
+ ul{
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  font-size: 30px;
+  justify-content:center ;
+  
+ }
+ section {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+ .home-sec{
+  padding-top: 4%;
+ }
